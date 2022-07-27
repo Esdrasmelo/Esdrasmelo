@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>⌨️ I've been working as Back-end developer since February 18, 2020</p>
-    <p>📜 Currently I'm learning <b>Redis</b> and <b>OOP (Object Oriented Programming)</b></p>
+    <p>📜 Currently I'm learning <b>Redis</b>, <b>AWS</b> and <b>OOP (Object Oriented Programming)</b></p>
     <p>🤓 My expertise is based in Javascript Stack and another back-end techs</p>
 </div>
 
