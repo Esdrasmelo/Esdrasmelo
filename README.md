@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Esdras de Melo Motta, Back-end developer</h2>
+<h2 align="center">Hi, my name is Esdras de Melo Motta</h2>
 
 <div align="center">
     <p>⌨️ I've been working as Back-end developer since February 18, 2020</p>
