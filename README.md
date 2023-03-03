@@ -7,10 +7,7 @@
 
 <div align="center">
     <p>You can find me in: </p>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/esdras-de-melo-motta/" target="_blank">Linkedin</a></li>
-    </ul>
-    
+    <a href="https://www.linkedin.com/in/esdras-de-melo-motta/" target="_blank">Linkedin</a>    
 </div>
 
 <div align="center">
