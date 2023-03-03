@@ -2,14 +2,20 @@
 
 <div align="center">
     <p>⌨️ I've been working as Back-end developer since February 18, 2020</p>
-    <p>📜 Currently I'm learning <b>Hexagonal Architecture</b> and <b>OOP (Object Oriented Programming)</b></p>
     <p>🤓 My expertise is based in Javascript Stack and another back-end techs</p>
+</div>
+
+<div align="center">
+    <p>You can find me in: </p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/esdras-de-melo-motta/">Linkedin</a></li>
+    </ul>
+    
 </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esdrasmelo&show_icons=true&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasmelo&layout=compact&langs_count=7&theme=midnight-purple"/>
-
 </div>
 
 <div style="display: inline_block" align="center"><br>
