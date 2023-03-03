@@ -1,14 +1,14 @@
 <h2 align="center">Hi, my name is Esdras de Melo Motta</h2>
 
 <div align="center">
-    <p>⌨️ I've been working as Back-end developer since February 18, 2020</p>
-    <p>🤓 My expertise is based in Javascript Stack and another back-end techs</p>
+    <p>I'm love programming since when I was 9 years old and I was always very curious and impressed with the tech world.</p>
+    <p>I've been working as Back-end developer since February 18, 2020 and my expertise is based in Javascript Stack and another back-end techs</p>
 </div>
 
 <div align="center">
     <p>You can find me in: </p>
     <ul>
-        <li><a href="https://www.linkedin.com/in/esdras-de-melo-motta/">Linkedin</a></li>
+        <li><a href="https://www.linkedin.com/in/esdras-de-melo-motta/" target="_blank">Linkedin</a></li>
     </ul>
     
 </div>
